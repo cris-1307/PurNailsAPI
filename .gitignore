@@ -1,0 +1,8 @@
+# Entorno virtual (aquí vienen los .bat de activate/deactivate)
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc

@@ -1,0 +1,5 @@
+# Que GitHub cuente solo el código Python del proyecto
+*.bat linguist-vendored
+*.cmd linguist-vendored
+venv/** linguist-vendored
+*.py linguist-language=Python
